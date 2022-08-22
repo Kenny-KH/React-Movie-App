@@ -1,1 +1,1 @@
-Learing basic React
+Study basic React
